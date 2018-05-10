@@ -19,3 +19,5 @@ func main() {
 		fmt.Printf("Hash: %x\n\n", block.Hash)
 	}
 }
+
+// https://jeiwan.cc/posts/building-blockchain-in-go-part-1/
